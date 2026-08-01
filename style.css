@@ -1,0 +1,42 @@
+/* Poore page ki styling */
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Card container ki styling */
+.card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Heading ki styling */
+h1 {
+    color: #333333;
+    font-size: 24px;
+}
+
+/* Paragraph ki styling */
+p {
+    color: #666666;
+    font-size: 16px;
+}
+
+/* Button ki styling */
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
